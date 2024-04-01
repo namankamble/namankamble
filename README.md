@@ -2,7 +2,10 @@
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 
 ## About Me
-I am a passionate Data Scientist and Machine Learning Engineer with expertise in Python, SQL, Excel, Power BI, Machine Learning, Deep Learning, NLP, AWS, HTML, CSS, JS, and Django. I love solving complex problems and building intelligent systems that drive innovation.
+Enthusiastic Data Scientist and machine learning engineer with 1.3 years of experience delivering actionable insights through 
+advanced analytics and machine learning techniques. Proficient in Python and SQL, with a focus on extracting meaningful
+patterns from complex datasets. Collaborative team member skilled in data preprocessing, modelling, and visualization. 
+Passionate about leveraging data to drive informed decisions and achieve organizational goals.
 
 ---
 
