@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm naman kamble</h1>
-<h3 align="center">Data Scientist and Machine Learning Engineer</h3>
+<h3 align="center">Data Analyst - Machine Learning Engineer - Data Scientist</h3>
 
 ## About Me
 Enthusiastic Data Scientist and machine learning engineer with 1.3 years of experience delivering actionable insights through 
