@@ -9,12 +9,13 @@ Passionate about leveraging data to drive informed decisions and achieve organiz
 
 ---
 
-## Skills
-- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Django, TensorFlow, PyTorch, Pandas, NumPy, SciPy
-- **Data Visualization**: Power BI, Matplotlib, Seaborn, Plotly
-- **Cloud Platforms**: AWS (Amazon Web Services)
-- **Natural Language Processing (NLP)**: NLTK, SpaCy, Transformers
+- ## Skills
+- **Programming Languages**: Python, SQL, JavaScript
+- **Platforms**: AWS, Apache Hadoop
 - **Version Control**: Git, GitHub
-- **Web Development**: HTML, CSS, JavaScript, Django
-- **Others**: Excel, Machine Learning, Deep Learning
+- **Tools**: Excel, PowerPoint, Power BI, Jupyter Notebook, VS Code
+- **Frameworks & Libraries**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow
+- **Domains**: Data Science, Data Analysis, Machine Learning, Data Engineering
+- **Specialized Skills**: Predictive Modelling, Regression Analysis, Time Series Analysis, Database Management
+- **Soft Skills**: Rapport Building, People Management, Problem Solving, Excellent Communication
+
