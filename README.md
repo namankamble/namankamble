@@ -9,7 +9,7 @@ Passionate about leveraging data to drive informed decisions and achieve organiz
 
 ---
 
-- ## Skills
+## Skills
 - **Programming Languages**: Python, SQL, JavaScript
 - **Data Manipulation**: Data wrangling, Data Cleaning, Data Preparation, Data Transformation And Feature Engineering.
 - **Data Analysis**: Descriptive analysis, Predictive analysis, Prescriptive analysis, Regression analysis, Predictive modelling.
