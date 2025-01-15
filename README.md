@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst - Machine Learning Engineer - Data Scientist</h3>
 
 ## About Me
-<p align="center">Data Analyst with over 2 years of experience, including 1 years in full-time role as a Data Analyst and 1 year as a Data Science intern. Skilled in optimizing data processes and implementing advanced models in Machine Learning and Deep Learning. Proven track record of driving data-driven decision-making to enhance business outcomes. Committed to delivering innovative solutions and strategic insights to address complex analytical challenges.</p>
+Data Analyst with over 2 years of experience, including 1 years in full-time role as a Data Analyst and 1 year as a Data Science intern. Skilled in optimizing data processes and implementing advanced models in Machine Learning and Deep Learning. Proven track record of driving data-driven decision-making to enhance business outcomes. Committed to delivering innovative solutions and strategic insights to address complex analytical challenges.
 
 ---
 
