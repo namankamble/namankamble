@@ -1,6 +1,6 @@
 <h1 align="center">Naman Kamble</h1>
-<h3 align="center">Data Analyst | Machine Learning Engineer | Data Scientist</h3>
-<h4 align="center">namankamble1999@gmail.com | +91 770-988-2463 | Nagpur, Maharashtra | <a href="https://www.linkedin.com/in/naman-kamble-b6005024b/">LinkedIn</a></h4>
+<p align="center">Data Analyst | Machine Learning Engineer | Data Scientist</p>
+<p align="center">namankamble1999@gmail.com | +91 770-988-2463 | Nagpur, Maharashtra | <a href="https://www.linkedin.com/in/naman-kamble-b6005024b/">LinkedIn</a></p>
 
 ## About Me
 Results-driven Data Analyst with 2+ years of experience, including 1 year as a full-time Data Analyst, 7 months as a Data Science Intern, and 3 months as an Operations Head. Increased operational efficiency by 17% through advanced data analytics and process optimization. Proficient in data analysis, machine learning, and deep learning, with expertise in Python, SQL, Power BI, and Tableau. 
