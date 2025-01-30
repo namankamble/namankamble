@@ -9,26 +9,22 @@ Adept at delivering insightful data-driven solutions to enhance business decisio
 
 ---
 
-## Skills
+##  🛠 Technical Skills
 
-    <ul>
-        <li><strong>Languages:</strong> Python, SQL, JavaScript</li>
-        <li><strong>Databases:</strong> MySQL, SQL Server, MongoDB</li>
-        <li><strong>Python Libraries:</strong> NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, PySpark, Shap</li>
-    </ul>
+📌 Programming & Data Tools:
+Languages: Python, SQL, JavaScript
+Databases: MySQL, SQL Server, MongoDB
+Python Libraries: NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, PySpark, Shap
 
-    <ul>
-        <li><strong>Analysis:</strong> Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management</li>
-        <li><strong>Visualization:</strong> Power BI, Tableau, Advanced Excel, Matplotlib, Seaborn, Plotly</li>
-    </ul>
+📊 Data Analysis & Visualization:
+Analysis: EDA, Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management
+Visualization: Power BI, Tableau, Advanced Excel, Matplotlib, Seaborn, Plotly
 
-    <ul>
-        <li><strong>ML Techniques:</strong> Data Preprocessing, Feature Engineering, Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, K-Means Clustering, PCA, Hypothesis Testing</li>
-        <li><strong>Deep Learning:</strong> CNN, RNN, LSTM, GRU, Transfer Learning, Attention Mechanism, Transformer Architecture (TensorFlow & Keras)</li>
-        <li><strong>Natural Language Processing (NLP):</strong> Tokenization, Stemming, Lemmatization, Word Embeddings, Named Entity Recognition (NER), Sentiment Analysis, Text Classification</li>
-    </ul>
+🤖 Machine Learning & Deep Learning:
+ML Techniques: Data Preprocessing, Feature Engineering, Regression, Decision Trees, Random Forest, XGBoost, K-Means, PCA, Hypothesis Testing
+Deep Learning: CNN, RNN, LSTM, GRU, Transfer Learning, Attention Mechanism, Transformer Architecture (TensorFlow & Keras)
+NLP: Tokenization, Stemming, Lemmatization, Word Embeddings, Named Entity Recognition (NER), Sentiment Analysis, Text Classification
 
-    <ul>
-        <li><strong>Deployment:</strong> Django, REST APIs, Databricks</li>
-        <li><strong>Cloud Services:</strong> AWS (S3, EC2, Lambda, API Gateway)</li>
-    </ul>
+☁️ Model Deployment & Cloud Technologies:
+Deployment: Django, REST APIs, Databricks
+Cloud Services: AWS (S3, EC2, Lambda, API Gateway)
