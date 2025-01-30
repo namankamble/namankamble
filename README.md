@@ -10,15 +10,25 @@ Adept at delivering insightful data-driven solutions to enhance business decisio
 ---
 
 ## Skills
-- **Programming Languages**: Python, SQL, JavaScript
-- **Data Manipulation**: Data wrangling, Data Cleaning, Data Preparation, Data Transformation And Feature Engineering.
-- **Data Analysis**: Descriptive analysis, Predictive analysis, Prescriptive analysis, Regression analysis, Predictive modelling.
-- **Business Intelligence**: Data Management, Data Analysis and Modeling, KPI Development, Dashboard creation, and Reporting.
-- **Machine Learning Algorithms**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Gradient Boosting (XGBoost, LightGBM, CatBoost), k-Means Clustering
-- **Big Data Technologies**: Hadoop, Spark, and Distributed Storage Systems. 
-- **Cloud Technologies**: Familiarity with AWS services such as S3, EC2, Lsmbda, API Gateway. 
-- **Tools**: Excel, PowerPoint, Power BI, Jupyter Notebook, VS Code
-- **Frameworks & Libraries**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow
-- **Domains**: Data Science, Data Analysis, Machine Learning, Data Engineering
-- **Specialized Skills**: Predictive Modelling, Regression Analysis, Time Series Analysis, Database Management
-- **Soft Skills**: Rapport Building, Problem solving, Effective Communication, Adaptability, Collaboration, and Project Management. 
+<h2>Programming & Data Tools</h2>
+    <ul>
+        <li><strong>Languages:</strong> Python, SQL, JavaScript</li>
+        <li><strong>Databases:</strong> MySQL, SQL Server, MongoDB</li>
+        <li><strong>Python Libraries:</strong> NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, PySpark, Shap</li>
+    </ul>
+    <h2>Data Analysis & Visualization</h2>
+    <ul>
+        <li><strong>Analysis:</strong> Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management</li>
+        <li><strong>Visualization:</strong> Power BI, Tableau, Advanced Excel, Matplotlib, Seaborn, Plotly</li>
+    </ul>
+    <h2>Machine Learning & Deep Learning</h2>
+    <ul>
+        <li><strong>ML Techniques:</strong> Data Preprocessing, Feature Engineering, Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, K-Means Clustering, PCA, Hypothesis Testing</li>
+        <li><strong>Deep Learning:</strong> CNN, RNN, LSTM, GRU, Transfer Learning, Attention Mechanism, Transformer Architecture (TensorFlow & Keras)</li>
+        <li><strong>Natural Language Processing (NLP):</strong> Tokenization, Stemming, Lemmatization, Word Embeddings, Named Entity Recognition (NER), Sentiment Analysis, Text Classification</li>
+    </ul>
+    <h2>Model Deployment & Cloud Technologies</h2>
+    <ul>
+        <li><strong>Deployment:</strong> Django, REST APIs, Databricks</li>
+        <li><strong>Cloud Services:</strong> AWS (S3, EC2, Lambda, API Gateway)</li>
+    </ul>
