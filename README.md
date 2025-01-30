@@ -10,24 +10,24 @@ Adept at delivering insightful data-driven solutions to enhance business decisio
 ---
 
 ## Skills
-<h2>Programming & Data Tools</h2>
+
     <ul>
         <li><strong>Languages:</strong> Python, SQL, JavaScript</li>
         <li><strong>Databases:</strong> MySQL, SQL Server, MongoDB</li>
         <li><strong>Python Libraries:</strong> NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, PySpark, Shap</li>
     </ul>
-    <h2>Data Analysis & Visualization</h2>
+
     <ul>
         <li><strong>Analysis:</strong> Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management</li>
         <li><strong>Visualization:</strong> Power BI, Tableau, Advanced Excel, Matplotlib, Seaborn, Plotly</li>
     </ul>
-    <h2>Machine Learning & Deep Learning</h2>
+
     <ul>
         <li><strong>ML Techniques:</strong> Data Preprocessing, Feature Engineering, Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, K-Means Clustering, PCA, Hypothesis Testing</li>
         <li><strong>Deep Learning:</strong> CNN, RNN, LSTM, GRU, Transfer Learning, Attention Mechanism, Transformer Architecture (TensorFlow & Keras)</li>
         <li><strong>Natural Language Processing (NLP):</strong> Tokenization, Stemming, Lemmatization, Word Embeddings, Named Entity Recognition (NER), Sentiment Analysis, Text Classification</li>
     </ul>
-    <h2>Model Deployment & Cloud Technologies</h2>
+
     <ul>
         <li><strong>Deployment:</strong> Django, REST APIs, Databricks</li>
         <li><strong>Cloud Services:</strong> AWS (S3, EC2, Lambda, API Gateway)</li>
