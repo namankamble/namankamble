@@ -11,9 +11,9 @@ Adept at delivering insightful data-driven solutions to enhance business decisio
 
 ## ***Skills***
 **Programming Languages:**
-  - **Languages:** Python, SQL, JavaScript 
-  - **Databases:** MySQL, SQL Server, MongoDB 
-  - **Python Libraries:** NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, PySpark, Shap 
+  - **`Languages:`** Python, SQL, JavaScript 
+  - **`Databases:`** MySQL, SQL Server, MongoDB 
+  - **`Python Libraries:`** NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, PySpark, Shap 
 
 
 **Data Analysis & Visualization:**
