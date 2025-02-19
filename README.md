@@ -17,15 +17,15 @@ Adept at delivering insightful data-driven solutions to enhance business decisio
 
 
 **Data Analysis & Visualization:**
-  - **Analysis:** Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management 
-  - **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel, PowerPoint
+  - **`Analysis:`** Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management 
+  - **`Visualization:`** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel, PowerPoint
 
 **Machine Learning & Deep Learning:**
-  - **ML Techniques:** Data Preprocessing, Feature Engineering, Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, K-Means Clustering, PCA, Hypothesis Testing
-  - **Deep Learning:** CNN, RNN, LSTM, GRU, Transfer Learning, Attention Mechanism, Transformer Architecture (TensorFlow & Keras) 
-  - **Natural Language Processing (NLP):** Tokenization, Stemming, Lemmatization, Word Embeddings, Named Entity Recognition (NER), Sentiment Analysis, Text Classification
-  - **Big Data Technologies:** Hadoop, Spark, Hive, Kafka
+  - **`ML Techniques:`** Data Preprocessing, Feature Engineering, Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, K-Means Clustering, PCA, Hypothesis Testing
+  - **`Deep Learning:`** CNN, RNN, LSTM, GRU, Transfer Learning, Attention Mechanism, Transformer Architecture (TensorFlow & Keras) 
+  - **`Natural Language Processing (NLP):`** Tokenization, Stemming, Lemmatization, Word Embeddings, Named Entity Recognition (NER), Sentiment Analysis, Text Classification
+  - **`Big Data Technologies:`** Hadoop, Spark, Hive, Kafka
 
 **Model Deployment & Cloud Technologies:** 
-  - **Deployment:** Django, Flask, REST APIs, Azure databricks
-  - **Cloud Services:** AWS (S3, EC2, Lambda, API Gateway), Azure ML
+  - **`Deployment:`** Django, Flask, REST APIs, Azure databricks
+  - **`Cloud Services:`** AWS (S3, EC2, Lambda, API Gateway), Azure ML
