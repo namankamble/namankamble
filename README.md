@@ -17,7 +17,7 @@ Adept at delivering insightful data-driven solutions to enhance business decisio
 
 
 **Data Analysis & Visualization:**
-  - **`Analysis:`** Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management 
+  - **`Analysis:`** Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, Time Series Analysis, Risk Management 
   - **`Visualization:`** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel, PowerPoint
 
 **Machine Learning & Deep Learning:**
@@ -29,3 +29,7 @@ Adept at delivering insightful data-driven solutions to enhance business decisio
 **Model Deployment & Cloud Technologies:** 
   - **`Deployment:`** Django, Flask, REST APIs, Azure databricks
   - **`Cloud Services:`** AWS (S3, EC2, Lambda, API Gateway), Azure ML
+
+**Soft Skills:** 
+ - Rapport Building, Problem solving, Effective Communication, Adaptability, Collaboration, and Project Management.
+
