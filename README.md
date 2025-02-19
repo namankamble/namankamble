@@ -3,22 +3,29 @@
 <p align="center">Data Analyst | Machine Learning Engineer | Data Scientist</p>
 <p align="center">namankamble1999@gmail.com | +91 770-988-2463 | Nagpur, Maharashtra | <a href="https://www.linkedin.com/in/naman-kamble-b6005024b/">LinkedIn</a></p>
 
-## About Me
+## ***About Me***
 Results-driven Data Analyst with 2+ years of experience, including 1 year as a full-time Data Analyst, 7 months as a Data Science Intern, and 3 months as an Operations Head. Increased operational efficiency by 17% through advanced data analytics and process optimization. Proficient in data analysis, machine learning, and deep learning, with expertise in Python, SQL, Power BI, and Tableau. 
 Adept at delivering insightful data-driven solutions to enhance business decision-making.
 
 ---
 
-## Skills
-- **Programming Languages**: Python, SQL, JavaScript
-- **Data Manipulation:** Data wrangling, Data Cleaning, Data Preparation, Data Transformation And Feature Engineering.
-- **Data Analysis:** Descriptive analysis, Predictive analysis, Prescriptive analysis, Regression analysis, Predictive modelling.
-- **Business Intelligence:** Data Management, Data Analysis and Modeling, KPI Development, Dashboard creation, and Reporting.
-- **Machine Learning Algorithms:** Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Gradient Boosting (XGBoost, LightGBM, CatBoost), k-Means Clustering
-- **Big Data Technologies:** Hadoop, Spark, and Distributed Storage Systems.
-- **Cloud Technologies:** Familiarity with AWS services such as S3, EC2, Lsmbda, API Gateway.
-- **Tools:** Excel, PowerPoint, Power BI, Jupyter Notebook, VS Code
-- **Frameworks & Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow
-- **Domains:** Data Science, Data Analysis, Machine Learning, Data Engineering
-- **Specialized Skills:** Predictive Modelling, Regression Analysis, Time Series Analysis, Database Management
-- **Soft Skills:** Rapport Building, Problem solving, Effective Communication, Adaptability, Collaboration, and Project Management.
+## ***Skills***
+**Programming Languages:**
+  - **Languages:** Python, SQL, JavaScript 
+  - **Databases:** MySQL, SQL Server, MongoDB 
+  - **Python Libraries:** NumPy, Pandas, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, PySpark, Shap 
+
+
+**Data Analysis & Visualization:**
+  - **Analysis:** Exploratory Data Analysis (EDA), Predictive & Prescriptive Analysis, Regression Analysis, KPI Monitoring, Financial Modelling, Report Building, Risk Management 
+  - **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Excel, PowerPoint
+
+**Machine Learning & Deep Learning:**
+  - **ML Techniques:** Data Preprocessing, Feature Engineering, Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, K-Means Clustering, PCA, Hypothesis Testing
+  - **Deep Learning:** CNN, RNN, LSTM, GRU, Transfer Learning, Attention Mechanism, Transformer Architecture (TensorFlow & Keras) 
+  - **Natural Language Processing (NLP):** Tokenization, Stemming, Lemmatization, Word Embeddings, Named Entity Recognition (NER), Sentiment Analysis, Text Classification
+  - **Big Data Technologies:** Hadoop, Spark, Hive, Kafka
+
+**Model Deployment & Cloud Technologies:** 
+  - **Deployment:** Django, Flask, REST APIs, Azure databricks
+  - **Cloud Services:** AWS (S3, EC2, Lambda, API Gateway), Azure ML
