@@ -6,11 +6,7 @@
 ## ***About Me***
 Hello, I am Naman, a Data Engineer, Machine Learning Engineer, and Data Scientist.
 
-I have experience working as a Data Analyst and a Operation Head, where I honed my skills in data analysis, visualization, and statistical modeling. With a background in Electrical Engineering and professional experience as an Operations Analyst in a production company, I bring a strong analytical mindset and problem-solving approach to data-driven challenges. I have a deep interest in Data Science, Machine Learning, and AI, and I enjoy working on projects involving Exploratory Data Analysis, Predictive Modeling, and Business Intelligence. My technical expertise includes Python (pandas, NumPy, scikit-learn, matplotlib, Plotly), SQL, Power BI, and Advanced Excel. I actively work on real-world datasets, solve statistical problems using Python, and continuously explore new technologies to enhance my data engineering skills.
-
-Beyond data, I am also focused on personal growth, including communication skills, public speaking, and confidence-building. I am always eager to connect, discuss ideas, and explore new challenges in data and technology.
-
-Let’s connect and have insightful conversations on data-driven problem-solving, career growth, and emerging tech trends!
+With 2+ years of experience, including 1 year as a full-time Data Analyst, 7 months as a Data Science Intern, and 5 months as an Operations Head. Experienced in analysing large datasets, building predictive models, and deploying machine learning solutions in business contexts. Proficient in data analysis, machine learning, and deep learning, with expertise in Python, SQL, Power BI, and Machine Learning. Adept at delivering insightful data-driven solutions to enhance business decision-making.
 
 ---
 
